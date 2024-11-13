@@ -1,6 +1,7 @@
 # Sudo-23
 Archivo clase de programación de computadores_2024-2_grupo 5_Universidad Nacional de Colombia 
-El dispositivo tiene OS Debian 12, con enviorement KDE plasma
+
+El dispositivo trabaja con OS Debian 12, con enviorement KDE plasma
 
 # Reto 02
 ## Objetivo: Comprobar funcionamientos de las herramientas del curso.
